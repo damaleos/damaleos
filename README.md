@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="">
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
-<a href="https://www.instagram.com/damaleos/">
+<a href="https://www.instagram.com/damaleos.dev/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daiana-juarez">
